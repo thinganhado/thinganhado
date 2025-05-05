@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ha (@thinganhado)
 
 👀 **About Me**  
-My name is Thi Ngan Ha Do, and I’m a Master of Data Science student at Swinburne University with a passion for using Data Science to solve real-world problems. With experience in data analysis, machine learning, and full-stack development across projects in education, finance, and marketing, I bring both technical depth and creative problem-solving to the table. 
+My name is Thi Ngan Ha Do, and I’m a Master of Data Science student at Swinburne University with a passion for using Data Science to solve real-world problems. With experience in data analysis, machine learning, and full-stack development across projects in education, finance, and software development, I bring both technical depth and creative problem-solving to the table. 
 
 🌱 **Currently Building & Learning**
 - Graph Neural Networks (GAT, RGAT, HeteroGNN) for social network-based prediction tasks  
