@@ -7,7 +7,7 @@ My name is Thi Ngan Ha Do, and I’m a Master of Data Science student at Swinbur
 - Graph Neural Networks (GAT, RGAT, HeteroGNN) for social network-based prediction tasks  
 - Multi-objective optimization using NSGA-II to solve complex resource allocation  
 - Model deployment and UI integration using Flask & Supabase  
-- NLP agent to explain graph insights in plain English  
+- NLP agent to explain graph insights
 - Visual analytics using Tableau and Power BI to make insights instantly digestible  
 
 💻 **Tech Stack**
