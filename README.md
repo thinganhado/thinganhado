@@ -1,22 +1,47 @@
-# 👋 Hi, I’m Maeve (@thinganhado)
+# Hi, I'm Ngan Ha Do
 
-👀 **About Me**  
-I’m a Master of Data Science student at Swinburne University with a passion for using Data Science to solve real-world problems. With experience in data analysis, machine learning, and full-stack development across projects in education, finance, and software development, I bring both technical depth and creative problem-solving to the table. 
+AI Engineer with experience building LLM pipelines, computer vision models, NLP applications, and data systems. My work sits across applied AI, research, and production engineering, with particular interest in GenAI, explainability, and quantitative finance.
 
-🌱 **Currently Building & Learning**
-- Graph Neural Networks (GAT, RGAT, HeteroGNN) for social network-based prediction tasks  
-- Multi-objective optimization using NSGA-II to solve complex resource allocation  
-- Model deployment and UI integration using Flask & Supabase  
-- NLP agent to explain graph insights
-- Visual analytics using Tableau and Power BI to make insights instantly digestible  
+## What I work on
 
-💻 **Tech Stack**
-- **Languages**: Python, SQL, R  
-- **Libraries**: PyTorch Geometric, Scikit-Learn, DEAP, NetworkX  
-- **Tools**: Power BI, Tableau, Flask, Git, Supabase  
-- **Certs**: BI Analyst Program (MindX), CFA Level 1
+### AI / ML
+- Vision-Language Models for deepfake detection
+- Explainable AI and model governance
+- Computer vision and segmentation
+- NLP assistants and LLM pipelines
+- Graph Neural Networks for social network and planning problems
 
-📫 **Let’s Connect**  
-- ✉️ Email: do.nganha11@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/donganha11/)  
-- 🧠 [GitHub Projects](https://github.com/thinganhado)
+### Data / Engineering
+- Python and SQL ETL pipelines
+- Cloud deployment on AWS, Azure, and Oracle Cloud
+- API development with FastAPI and Flask
+- Model serving and MLOps workflows
+- Real-time streaming with Kafka
+
+## Selected work
+
+### CSIRO's Data61 — AI/ML Engineer
+Worked on AI-powered deepfake detection and explainability projects, including fine-tuned VLM pipelines, GRPO optimisation, deterministic XAI frameworks, and real-time deployment on Azure Kubernetes.
+
+### SW Education — Data Engineer
+Built Python and SQL ETL pipelines, migrated on-premises data to AWS RDS, and supported automated reporting and Power BI dashboards for business teams.
+
+### Verilyx
+Developed a fraud detection solution using machine learning, Kafka streaming, and AWS-based architecture for financial services use cases.
+
+### Classforge
+Built GNN-based classroom analytics and an NLP assistant that converted user requirements into scheduling constraints for classroom allocation.
+
+## Tech stack
+
+**Languages & Backend**  
+Python, Java, R, SQL, FastAPI, Flask
+
+**Machine Learning**  
+PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, OR-Tools
+
+**LLM / GenAI**  
+Hugging Face, Qwen, Llama, OpenAI API, RLHF, XAI, ms-swift
+
+**Cloud / MLOps / Data**  
+AWS, Azure, Oracle Cloud, Docker, Kubernetes, Kafka, MLflow, Git CI/CD, Linux
