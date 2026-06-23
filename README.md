@@ -1,6 +1,6 @@
 # Hi, I'm Ngan Ha Do
 
-AI Engineer with experience building LLM pipelines, computer vision models, NLP applications, and data systems. My work sits across applied AI, research, and production engineering, with particular interest in GenAI, explainability, and quantitative finance.
+AI Engineer with experience building LLM pipelines, computer vision models, NLP applications, and data systems.
 
 ## What I work on
 
@@ -20,10 +20,10 @@ AI Engineer with experience building LLM pipelines, computer vision models, NLP 
 
 ## Selected work
 
-### CSIRO's Data61 — AI/ML Engineer
+### CSIRO's Data61 
 Worked on AI-powered deepfake detection and explainability projects, including fine-tuned VLM pipelines, GRPO optimisation, deterministic XAI frameworks, and real-time deployment on Azure Kubernetes.
 
-### SW Education — Data Engineer
+### SW Education
 Built Python and SQL ETL pipelines, migrated on-premises data to AWS RDS, and supported automated reporting and Power BI dashboards for business teams.
 
 ### Verilyx
