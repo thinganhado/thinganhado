@@ -18,20 +18,6 @@ AI Engineer with experience building LLM pipelines, computer vision models, NLP 
 - Model serving and MLOps workflows
 - Real-time streaming with Kafka
 
-## Selected work
-
-### CSIRO's Data61 
-Worked on AI-powered deepfake detection and explainability projects, including fine-tuned VLM pipelines, GRPO optimisation, deterministic XAI frameworks, and real-time deployment on Azure Kubernetes.
-
-### SW Education
-Built Python and SQL ETL pipelines, migrated on-premises data to AWS RDS, and supported automated reporting and Power BI dashboards for business teams.
-
-### Verilyx
-Developed a fraud detection solution using machine learning, Kafka streaming, and AWS-based architecture for financial services use cases.
-
-### Classforge
-Built GNN-based classroom analytics and an NLP assistant that converted user requirements into scheduling constraints for classroom allocation.
-
 ## Tech stack
 
 **Languages & Backend**  
