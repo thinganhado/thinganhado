@@ -1,4 +1,4 @@
-# Hi, I'm Ngan Ha Do
+# Hi, I'm Ha
 
 AI Engineer with experience building LLM pipelines, computer vision models, NLP applications, and data systems.
 
